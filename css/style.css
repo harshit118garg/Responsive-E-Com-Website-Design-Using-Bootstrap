@@ -86,6 +86,8 @@ p {
 
 #home .home-banner-1,
 #home .home-banner-2 {
+  background-color: var(--bg-carousel-small-screen);
+  background-blend-mode: soft-light;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 90% center;
@@ -105,7 +107,7 @@ p {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-110%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 #home .home-banner-text h1 {

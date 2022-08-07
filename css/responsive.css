@@ -28,8 +28,6 @@
 @media (max-width: 767px) {
   #home .home-banner-1,
   #home .home-banner-2 {
-    background-color: var(--bg-carousel-small-screen);
-    background-blend-mode: soft-light;
     background-position: 87% center;
     min-height: 450px;
   }
