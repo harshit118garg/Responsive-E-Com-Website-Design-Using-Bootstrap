@@ -49,8 +49,23 @@
   #home .slider-icon {
     font-size: 1.5rem;
   }
+  .offers {
+    padding-top: 4rem;
+  }
   .products .up_to_content h2 {
     font-size: 0.75rem;
+  }
+  .products {
+    padding-top: 4rem;
+  }
+  #special {
+    padding: 2rem 0;
+  }
+  #special .countdown-container p {
+    padding: 0 2 rem;
+  }
+  #special .countdown-container .countdown-counter li {
+    padding: 1rem;
   }
 }
 
@@ -58,4 +73,5 @@
   #home .home-banner .home-banner-text h2 {
     font-size: 1rem;
   }
+
 }
